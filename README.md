@@ -1,6 +1,7 @@
 ![XPoet github stats](https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPoet&hide=html,css)](https://github.com/XPoet)
+<!-- 编程语言统计 -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPoet&hide=html,css)](https://github.com/XPoet) -->
 
 
 
