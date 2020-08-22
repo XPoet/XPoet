@@ -1,12 +1,9 @@
 ![XPoet github stats](https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true)
 
-### My open source projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPoet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![PicX](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=picx)](https://github.com/XPoet/picx)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 <!--
 **XPoet/XPoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
