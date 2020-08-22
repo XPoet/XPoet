@@ -2,9 +2,7 @@
 
 ### My open source projects
 
-[![PicX](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=picx)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ILS](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=hexo-theme-ils)](https://github.com/anuraghazra/github-readme-stats)
+[![PicX](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=picx)](https://github.com/XPoet/picx) [![ILS](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=hexo-theme-ils)](https://github.com/XPoet/hexo-theme-ils)
 
 <!--
 **XPoet/XPoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
