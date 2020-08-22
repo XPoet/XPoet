@@ -4,9 +4,6 @@
 
 [![PicX](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=picx)](https://github.com/XPoet/picx)
 
-<a href="https://github.com/XPoet/hexo-theme-ils">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=hexo-theme-ils" />
-</a>
 <!--
 **XPoet/XPoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
