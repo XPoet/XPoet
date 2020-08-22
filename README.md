@@ -1,5 +1,11 @@
 ![XPoet github stats](https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true)
 
+### My open source projects
+
+[![PicX](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=picx)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ILS](https://github-readme-stats.vercel.app/api/pin/?username=XPoet&repo=hexo-theme-ils)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **XPoet/XPoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
