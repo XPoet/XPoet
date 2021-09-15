@@ -1,4 +1,4 @@
-![XPoet github stats](https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true)
+![XPoet github stats](https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true&theme=nord)
 
 <!-- 编程语言统计 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPoet&hide=html,css)](https://github.com/XPoet) -->
