@@ -37,15 +37,15 @@
   />
   <img
     src="https://svgl.app/library/nodejs.svg"
-    alt="node"
-    title="node"
+    alt="Node.js"
+    title="Node.js"
     width="40"
     height="40"
   />
   <img
     src="https://svgl.app/library/expressjs.svg"
-    alt="express"
-    title="express"
+    alt="Express"
+    title="Express"
     width="40"
     height="40"
   />
@@ -53,6 +53,13 @@
     src="https://svgl.app/library/vue.svg"
     alt="Vue"
     title="Vue"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/nuxt.svg"
+    alt="Nuxt"
+    title="Nuxt"
     width="40"
     height="40"
   />
@@ -93,8 +100,8 @@
   />
   <img
     src="https://svgl.app/library/spring.svg"
-    alt="Spring"
-    title="Spring"
+    alt="SpringBoot"
+    title="SpringBoot"
     width="40"
     height="40"
   />
