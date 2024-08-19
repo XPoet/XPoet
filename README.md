@@ -1,22 +1,110 @@
-![XPoet github stats](https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true&theme=nord)
+## 👋 Hi, I'm XPoet.
 
-<!-- 编程语言统计 -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPoet&hide=html,css)](https://github.com/XPoet) -->
+💻 Software development engineer
 
+🎉 Open source enthusiast
 
+#### Languages and Frameworks
 
+ <p>
+  <img
+    src="https://svgl.app/library/html5.svg"
+    alt="HTML5"
+    title="HTML5"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/css.svg"
+    alt="CSS3"
+    title="CSS3"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/javascript.svg"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/typescript.svg"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/nodejs.svg"
+    alt="node"
+    title="node"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/expressjs.svg"
+    alt="express"
+    title="express"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/vue.svg"
+    alt="Vue"
+    title="Vue"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/angular.svg"
+    alt="Angular"
+    title="Angular"
+    width="40"
+    height="40"
+  />
+  <img
+  src="https://svgl.app/library/react.svg"
+  alt="React"
+  title="React"
+  width="40"
+  height="40"
+  />
+  <img
+    src="https://svgl.app/library/vitejs.svg"
+    alt="Vite"
+    title="Vite"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/electron.svg"
+    alt="Electron"
+    title="Electron"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/java.svg"
+    alt="Java"
+    title="Java"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/spring.svg"
+    alt="Spring"
+    title="Spring"
+    width="40"
+    height="40"
+  />
+</p>
 
-<!--
-**XPoet/XPoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Total
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=XPoet&show_icons=true" 
+    alt="XPoet"
+  />
+</p>
