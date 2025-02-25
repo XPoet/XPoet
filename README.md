@@ -71,13 +71,6 @@
     height="40"
   />
   <img
-  src="https://svgl.app/library/react.svg"
-  alt="React"
-  title="React"
-  width="40"
-  height="40"
-  />
-  <img
     src="https://svgl.app/library/vitejs.svg"
     alt="Vite"
     title="Vite"
