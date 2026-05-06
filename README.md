@@ -1,106 +1,42 @@
-## 👋 Hi, I'm XPoet.
+# 👋 Hi, I'm XPoet
 
-💻 Software development engineer
-
-🎉 Open source enthusiast
-
-#### Languages and Frameworks
-
- <p>
-  <img
-    src="https://svgl.app/library/html5.svg"
-    alt="HTML5"
-    title="HTML5"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/css.svg"
-    alt="CSS3"
-    title="CSS3"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/javascript.svg"
-    alt="JavaScript"
-    title="JavaScript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/typescript.svg"
-    alt="TypeScript"
-    title="TypeScript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/nodejs.svg"
-    alt="Node.js"
-    title="Node.js"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/expressjs.svg"
-    alt="Express"
-    title="Express"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/vue.svg"
-    alt="Vue"
-    title="Vue"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/nuxt.svg"
-    alt="Nuxt"
-    title="Nuxt"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/angular.svg"
-    alt="Angular"
-    title="Angular"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/vitejs.svg"
-    alt="Vite"
-    title="Vite"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/electron.svg"
-    alt="Electron"
-    title="Electron"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/java.svg"
-    alt="Java"
-    title="Java"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/spring.svg"
-    alt="SpringBoot"
-    title="SpringBoot"
-    width="40"
-    height="40"
-  />
+<p align="center">
+  <strong>Software Development Engineer</strong>
+  <br />
+  <span>Open source enthusiast, focused on building practical and maintainable software.</span>
 </p>
 
-#### Total
+<p align="center">
+  <a href="https://github.com/XPoet">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-XPoet-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=XPoet&style=flat-square&color=0969da" />
+</p>
+
+## About
+
+- Software development engineer
+- Open source enthusiast
+
+## Languages And Frameworks
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+</p>
+
+## GitHub Stats
 
 <p>
   <img
